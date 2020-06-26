@@ -1,0 +1,24 @@
+{
+  "name": "alexaskillforaws",
+  "version": "1.0.0",
+  "description": "A bot that manages AWS deployments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssWitcher/alexaskillForAWS.git"
+  },
+  "author": "Saurabh Shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssWitcher/alexaskillForAWS/issues"
+  },
+  "homepage": "https://github.com/ssWitcher/alexaskillForAWS#readme",
+  "dependencies": {
+    "ask-sdk-core": "^2.8.0",
+    "ask-sdk-model": "^1.28.0",
+    "aws-sdk": "^2.704.0"
+  }
+}
